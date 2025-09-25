@@ -36,7 +36,6 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clementlopes&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=clementlopes&theme=dark)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clementlopes&theme=dark)  
 
 ---
 
@@ -53,7 +52,7 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 
 ✨ Always learning and adapting – currently improving my **Nuxt 3 (Composition API)** skills.  
 
-📫 You can reach me on [LinkedIn](linkedin.com/in/clément-lopes-208719375) or check my projects here on GitHub!  
+📫 You can reach me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/clément-lopes-208719375/) or check my projects here on GitHub!  
 
 
 <!--
