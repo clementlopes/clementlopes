@@ -38,18 +38,8 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clementlopes&show_icons=true&theme=dark) | ![GitHub Streak](https://streak-stats.demolab.com/?user=clementlopes&theme=dark) |
 |-------------|--------|
 
-|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark)  |
+|![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark)  | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark&hide=html,css&langs_count=5&include_all_commits=true) |
 
----
-
-## 🌍 Languages
-- 🇵🇹 Portuguese: Native  
-- 🇬🇧 English: Good reading & listening, intermediate speaking  
-
----
-
-## 🎓 Certifications
-- **CCP – Certificate of Pedagogical Skills** (Certified to teach/train)  
 
 ---
 
