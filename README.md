@@ -49,11 +49,16 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
       <img src='https://streak-stats.demolab.com/?user=clementlopes&theme=dark' />
     </td>
   </tr>
-  <td>
-    <tr>
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark' />
+  <tr>
+    <td colspan="2" align="center">
+      Languages
+    </td>
   </tr>
-<td>
+  <tr>
+    <td colspan="2" align="center">
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark' />
+  </td>
+</tr>
 </table>
 
 ---
