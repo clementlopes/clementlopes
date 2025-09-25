@@ -9,6 +9,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=clementlopes&theme=dark)
 
+![Profile Views](https://komarev.com/ghpvc/?username=clementlopes&color=blueviolet)
+
+
 <!--
 **clementlopes/clementlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
