@@ -33,6 +33,11 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 
 ## 📊 GitHub Stats
 
+| GitHub Stats | Streak |
+|-------------|--------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TEU_USERNAME&show_icons=true&theme=radical) | ![GitHub Streak](https://streak-stats.demolab.com/?user=TEU_USERNAME&theme=radical) |
+
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clementlopes&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=clementlopes&theme=dark)  
