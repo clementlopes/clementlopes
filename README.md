@@ -43,14 +43,14 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
   </tr>
   <tr>
     <td>
-      ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=clementlopes&show_icons=true&theme=dark)
+      <img src='https://github-readme-stats.vercel.app/api?username=clementlopes&show_icons=true&theme=dark' />
     </td>
     <td>
-      ![GitHub Streak](https://streak-stats.demolab.com/?user=clementlopes&theme=dark)
+      <img src='https://streak-stats.demolab.com/?user=clementlopes&theme=dark' />
     </td>
   </tr>
   <tr>
-    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark)
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark' />
   </tr>
 </table>
 
