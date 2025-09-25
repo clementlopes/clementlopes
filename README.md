@@ -53,7 +53,7 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 ✨ Always learning and adapting – currently improving my **Nuxt 3 (Composition API)** skills.  
 
 📫 You can reach me on [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/clément-lopes-208719375/) or check my projects here on GitHub!  
-
+[<img src="https://skillicons.dev/icons?i=linkedin" width="30"/>](https://www.linkedin.com/in/clément-lopes-208719375//)
 
 <!--
 **clementlopes/clementlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
