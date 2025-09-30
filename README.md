@@ -16,7 +16,7 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 ---
 
 ## 💼 Experience
-- **POS Frontend Developer**     <a href="https://github.com/goldylocks-portugal/pos-goldylocks/releases/tag/v1.4.6" target="_blank">
+- **POS Frontend Developer**  <a style="margin-left:6px" href="https://github.com/goldylocks-portugal/pos-goldylocks/releases/tag/v1.4.6" target="_blank">
   <img src="assets/goldylocks.png" width="20"/>
 </a>
 
