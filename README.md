@@ -9,7 +9,7 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 - **Frameworks:** Vue.js, Nuxt 3  
 - **Languages:** TypeScript, JavaScript  
 - **Styling:** TailwindCSS, DaisyUI  
-- **State Management:** Pinia, Vuex (basic)  
+- **State Management:** Pinia, Vuex
 - **Tools:** Git, GitHub Projects (Kanban), ESLint, Postman  
 - **Build Tools:** Vite, Webpack (basic)  
 
