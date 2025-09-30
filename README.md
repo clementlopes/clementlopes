@@ -16,10 +16,10 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 ---
 
 ## 💼 Experience
-- **POS Frontend Developer**
-<a href="https://github.com/goldylocks-portugal/pos-goldylocks/releases/tag/v1.4.6" target="_blank">
+- **POS Frontend Developer** <a href="https://github.com/goldylocks-portugal/pos-goldylocks/releases/tag/v1.4.6" target="_blank">
   <img src="assets/goldylocks.png" width="20"/>
 </a>
+
   Responsible for maintaining and improving the frontend of a Point-of-Sale (POS) system.  
   - Built and optimized UI components, dashboards, and forms.  
   - Integrated APIs for real-time sales and transaction data.  
