@@ -22,7 +22,7 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
   - Integrated APIs for real-time sales and transaction data.  
   - Ensured responsive and accessible UI across devices.  
   - Collaborated with backend team and tested APIs using Postman.
-[![Goldylocks](https://upload.wikimedia.org/path-da-logo.png)](https://github.com/goldylocks-portugal/pos-goldylocks)
+[![Goldylocks](assets/goldylocks.png)](https://github.com/goldylocks-portugal/pos-goldylocks)
 
 
 - **Booking Project (Nuxt 3 + PocketBase)**  
