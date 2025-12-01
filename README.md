@@ -6,7 +6,7 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
 ---
 
 ## 🚀 Tech Stack
-- **Frameworks:** Vue.js, Nuxt 3  
+- **Frameworks:** Vue.js, Nuxt
 - **Languages:** TypeScript, JavaScript(es6+)  
 - **Styling:** TailwindCSS, DaisyUI  
 - **State Management:** Pinia, Vuex
