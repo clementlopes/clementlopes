@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Clément Lopes
 
-I'm a junior **Frontend Developer** with the goal of becoming a Full Stack Developer, passionate about building modern, scalable, and user-friendly web applications.  
+I'm a **Frontend Developer** with the goal of becoming a Full Stack Developer, passionate about building modern, scalable, and user-friendly web applications.  
 I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience in **POS systems** and full-stack integration using **PocketBase**.  
 
 ---
