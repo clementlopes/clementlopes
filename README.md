@@ -7,16 +7,31 @@ I build and maintain my own homelab to learn through real-world infrastructure, 
 My infrastructure runs on a **Proxmox VE** server with **8 GB of RAM**, using LXC containers and Docker to isolate services and workloads.
 
 ## 💼 Experience
-- **POS Frontend Developer** &nbsp;  <a  href="https://github.com/goldylocks-portugal/pos-goldylocks/releases/tag/v1.4.7" target="_blank">
-  <img src="assets/goldylocks.png" width="20"/>
-</a>
 
-  Responsible for maintaining and improving the frontend of a Point-of-Sale (POS) system.  
-  - Built and optimized UI components, dashboards, and forms.  
-  - Integrated APIs for real-time sales and transaction data.  
-  - Ensured responsive and accessible UI across devices.  
-  - Collaborated with backend team and tested APIs using Postman.
-    
+* **POS Frontend Developer**   <a href="https://github.com/goldylocks-portugal/pos-goldylocks/releases/tag/v1.4.7" target="_blank"> <img src="assets/goldylocks.png" width="20"/> </a>
+
+  Responsible for maintaining and improving the frontend of a Point-of-Sale (POS) system.
+
+  * Built and optimized UI components, dashboards, and forms.
+  * Integrated APIs for real-time sales and transaction data.
+  * Ensured responsive and accessible UI across devices.
+  * Collaborated with the backend team and tested APIs using Postman.
+  * Used GitLab internally for source control and collaboration.
+
+* **Web Developer & Infrastructure**   <a href="https://www.marcaqmarca.com" target="_blank"> <img src="https://cdn.simpleicons.org/wordpress/21759B" width="20"/> </a>
+
+  Collaborated on the development and infrastructure of a WooCommerce-based e-commerce platform with a catalog of **21,000+ products**.
+
+  * Developed and maintained the website using **WordPress + WooCommerce**.
+  * Managed the hosting environment using **Virtualmin**.
+  * Implemented a daily automated script to update the product catalog and data overnight.
+  * Worked with **Cloudflare** to protect the website and control automated traffic, while allowing Google crawlers required for Google Ads.
+  * Used **NPMplus + CrowdSec** for an additional layer of protection against malicious and automated traffic.
+  * Collaborated with a colleague who containerized parts of the platform using **Docker** and implemented **Redis** for caching and performance.
+  * Used **GitLab** internally for source control and collaboration.
+  * Collaborated on the architecture, maintenance, and optimization of the platform.
+
+
 
 ## 🏠 Homelab
 
