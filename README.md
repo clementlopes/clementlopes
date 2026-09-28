@@ -1,19 +1,10 @@
-# 👋 Hi, I'm Clément Lopes
+# Hi, I'm Clement Lopes 👋
 
-I'm a **Frontend Developer** with the goal of becoming a Full Stack Developer, passionate about building modern, scalable, and user-friendly web applications.  
-I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience in **POS systems** and full-stack integration using **PocketBase**.  
+## Homelab • Linux • Self-Hosting • Virtualization • Automation
 
----
+I build and maintain my own homelab to learn through real-world infrastructure, networking, automation, and self-hosting projects.
 
-## 🚀 Tech Stack
-- **Frameworks:** Vue.js, Nuxt
-- **Languages:** TypeScript, JavaScript(es6+)  
-- **Styling:** TailwindCSS, DaisyUI  
-- **State Management:** Pinia, Vuex
-- **Tools:** Git, GitHub Projects (Kanban), ESLint, Postman  
-- **Build Tools:** Vite, Webpack (basic)  
-
----
+My infrastructure runs on a **Proxmox VE** server with **8 GB of RAM**, using LXC containers and Docker to isolate services and workloads.
 
 ## 💼 Experience
 - **POS Frontend Developer** &nbsp;  <a  href="https://github.com/goldylocks-portugal/pos-goldylocks/releases/tag/v1.4.7" target="_blank">
@@ -27,62 +18,92 @@ I work mainly with **Vue.js**, **Nuxt 3**, and **TypeScript**, with experience i
   - Collaborated with backend team and tested APIs using Postman.
     
 
-- **Booking Project (Nuxt 3 + PocketBase)**  
-  Currently developing a booking platform as a personal project.  
-  - Uses **Nuxt 3**, **TailwindCSS**, and **PocketBase** for backend.  
-  - Includes authentication, booking management, and dashboard features.  
-  - Focused on clean UI and performance.  
+## 🏠 Homelab
 
----
+* **Proxmox VE + LXC** — virtualization and service isolation
+* **Docker + Coolify** — containerized applications and deployments
+* **Tailscale** — secure remote access without router port forwarding
+* **Cloudflare Tunnel + NPMplus** — controlled public access
+* **n8n** — workflow automation
+* **Immich** — self-hosted photo management
+* **GitLab** — self-hosted Git & DevOps
+* **Uptime Kuma** — service monitoring
+* **Virtualmin** — WordPress & WooCommerce hosting
+* **Agent DVR** — video surveillance
+* **ESPHome** — IoT
+* **AdGuard Home** — DNS filtering
+* **iVentoy** — network boot and OS deployment
+* **PocketBase** — lightweight backend services
+
+## 🔐 Infrastructure
+
+I focus on **isolation, reliability, monitoring, and recovery**.
+
+* LXC containers for workload isolation
+* Dedicated LXC for n8n
+* Tailscale for private remote access
+* Cloudflare Tunnel for selected public services
+* Daily full-machine backups
+* **Discord notifications for monitoring, deployments, and automation**
+* Uptime Kuma for service availability monitoring
+* Coolify and n8n integrated with Discord for operational notifications
+
+I also experimented with **Headscale + Headplane** as a self-hosted Tailscale control plane.
+
+## 💻 Web Development
+
+* **Frameworks:** Vue.js, Nuxt
+* **Languages:** TypeScript, JavaScript (ES6+)
+* **Styling:** Tailwind CSS, DaisyUI
+* **State Management:** Pinia, Vuex
+* **Tools:** Git, GitHub Projects, ESLint, Postman
+* **Build Tools:** Vite, Webpack
+
+Currently improving my **Nuxt 4, Vue 3 and Composition API** skills.
+
+## 🛠️ Technologies
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge\&logo=proxmox\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=for-the-badge\&logo=tailscale\&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-6B4FBB?style=for-the-badge\&logo=coolify\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge\&logo=nuxt\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge\&logo=pinia\&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+## 🚧 Currently
+
+Learning, experimenting, breaking things, fixing them, and turning what I learn into practical projects.
+
+> **Build it. Break it. Fix it. Automate it.**
 
 ## 📊 GitHub Stats
+
 <table>
   <tr>
     <td>
-      GitHub Stats 
+      <img src="https://github-readme-stats.vercel.app/api?username=clementlopes&show_icons=true&theme=dark" />
     </td>
     <td>
-      Streak
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src='https://github-readme-stats.vercel.app/api?username=clementlopes&show_icons=true&theme=dark' />
-    </td>
-    <td>
-      <img src='https://streak-stats.demolab.com/?user=clementlopes&theme=dark' />
+      <img src="https://streak-stats.demolab.com/?user=clementlopes&theme=dark" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      Languages
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2" align="center">
-    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=clementlopes&layout=compact&theme=dark' />
-  </td>
-</tr>
 </table>
 
 ---
 
-Always learning and adapting – currently improving my **Nuxt 4 (Composition API)** skills.  
-
-You can reach me on [<img src="https://skillicons.dev/icons?i=linkedin" width="15"/>](https://www.linkedin.com/in/clément-lopes-208719375//) or check my projects here on GitHub! [<img src='https://img.icons8.com/ios-glyphs/50/ffffff/github.png' width="20"/>](https://github.com/clementlopes?tab=repositories)
-
-
-<!--
-**clementlopes/clementlopes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **[clementlopes.site](https://clementlopes.site)** · 💻 **[GitHub](https://github.com/clementlopes)** · 💼 **[LinkedIn](https://www.linkedin.com/in/clément-lopes-208719375/)**
