@@ -1,6 +1,6 @@
 # Hi, I'm Clement Lopes 👋
 
-## Homelab • Linux • Self-Hosting • Virtualization • Automation
+## Homelab • Linux • Self-Hosting • Virtualization • Automation • AI
 
 I build and maintain my own homelab to learn through real-world infrastructure, networking, automation, and self-hosting projects.
 
@@ -71,7 +71,7 @@ I also experimented with **Headscale + Headplane** as a self-hosted Tailscale co
 * **Languages:** TypeScript, JavaScript (ES6+)
 * **Styling:** Tailwind CSS, DaisyUI
 * **State Management:** Pinia, Vuex
-* **Tools:** Git, GitHub Projects, ESLint, Postman
+* **Tools:** Git, GitLab, GitHub Projects, ESLint, Postman
 * **Build Tools:** Vite, Webpack
 
 Currently improving my **Nuxt 4, Vue 3 and Composition API** skills.
@@ -94,6 +94,11 @@ Currently improving my **Nuxt 4, Vue 3 and Composition API** skills.
 ![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge\&logo=pinia\&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+## 🤖 AI & Development Environment
+
+- **Omarchy** — Linux development environment
+- **OpenCode** — AI-assisted development and coding workflows
 
 ## 🚧 Currently
 
