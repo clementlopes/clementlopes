@@ -126,4 +126,4 @@ Learning, experimenting, breaking things, fixing them, and turning what I learn 
 
 ---
 
-🌐 **[clementlopes.site](https://clementlopes.site)** · 💻 **[GitHub](https://github.com/clementlopes)** · 💼 **[LinkedIn](https://www.linkedin.com/in/clément-lopes-208719375/)**
+🌐 **[clementlopes.site](https://clementlopes.pt)** · 💻 **[GitHub](https://github.com/clementlopes)** · 💼 **[LinkedIn](https://www.linkedin.com/in/clément-lopes-208719375/)**
